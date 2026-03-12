@@ -20,23 +20,40 @@ I work across game engines and web technologies, with a strong interest in multi
 
 ## 🛠 Tech Stack
 
-### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+Here are the tools and technologies I use most, starting with my strongest areas.
 
-### Game Development
+### Core Game Development
+Gameplay-first tools and engines I use the most.
+
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Phaser](https://img.shields.io/badge/Phaser-2B2E3A?style=for-the-badge&logo=phaser&logoColor=white)
 ![Cocos Creator](https://img.shields.io/badge/Cocos_Creator-55C2E1?style=for-the-badge&logo=cocos&logoColor=white)
+![HTML5 Games](https://img.shields.io/badge/HTML5_Games-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Java Game Dev](https://img.shields.io/badge/Java_Game_Dev-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Core Languages
+The languages I rely on most for gameplay and interactive product development.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C%23](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+![C%2B%2B](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Backend & Services
+For multiplayer, APIs, content systems, and connected game features.
+
 ![Nakama](https://img.shields.io/badge/Nakama-00A3FF?style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### Tools
+### Workflow & Tools
+Tools I use to build, manage, and ship projects.
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
