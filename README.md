@@ -60,26 +60,10 @@ Instant-play game ideas built with Phaser, including wallet-connected and platfo
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smmendis&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smmendis&layout=compact&theme=tokyonight&hide_border=true)
-
-
----
-
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/smmendis
 - Email: shalika.madhushanka@gmail.com
 - LinkedIn: https://lk.linkedin.com/in/tsmm
-
----
-
-## ✨ Current Focus
-
-- Building better gameplay experiences
-- Exploring backend systems for multiplayer and live features
-- Creating games that feel simple, polished, and fun
 
 ---
